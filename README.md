@@ -29,7 +29,10 @@ This project focuses on analyzing a banking dataset to extract key insights and 
 
 ## Dashboard Preview
 
-![Dashboard Preview](Banking/dashboard_preview.png)
+![Dashboard Preview 1](Banking/Screenshot%202025-04-24%20211845.png)  
+![Dashboard Preview 2](Banking/Screenshot%202025-04-24%20211913.png)  
+![Dashboard Preview 3](Banking/Screenshot%202025-04-24%20211939.png)
+
 
 ---
 
